@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Problems/A long process/out/
+/Problems/A long process/out/production/classes/
+/Problems/Classes for Hospital/out/
+/Problems/Classes for Hospital/out/production/classes/
+/Problems/Convert a date/out/
+/Problems/Convert a date/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/Find X/out/
+/Problems/Find X/out/production/classes/
+/Problems/Getting the fullname/out/
+/Problems/Getting the fullname/out/production/classes/
+/Problems/Move the first N characters/out/
+/Problems/Move the first N characters/out/production/classes/
+/Problems/Palindrome/out/
+/Problems/Palindrome/out/production/classes/
+/Problems/Piece of alphabet/out/
+/Problems/Piece of alphabet/out/production/classes/
+/Problems/The lucky ticket/out/
+/Problems/The lucky ticket/out/production/classes/
